@@ -1,0 +1,4 @@
+ -  id: 124
+    label: button_name1
+    link: 'https://ya.ru'
+    depends: 124
